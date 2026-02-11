@@ -115,8 +115,8 @@ To become a highly skilled frontend engineer capable of building scalable, clean
 ## 📫 Connect With Me
 
 📧 danielacosta@byui.edu  
-💼 LinkedIn: *(add your link)*  
-🌐 Portfolio: *(add your link)*  
+💼 LinkedIn: *https://github.com/DanielAcostaFranco/*  
+🌐 Portfolio: *https://danielacostafranco.github.io/Portfolio/*  
 
 ---
 
