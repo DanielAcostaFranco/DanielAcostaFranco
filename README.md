@@ -3,7 +3,6 @@
 ### Software Engineering Student | Frontend-Focused Web Developer  
 
 📍 Rexburg, Idaho  
-🇲🇽 Originally from Campeche, Mexico  
 
 ---
 
