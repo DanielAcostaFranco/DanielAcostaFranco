@@ -1,30 +1,31 @@
 # 👨🏻‍💻 Daniel Acosta
 
-### Web Development Student | JavaScript Developer | Problem Solver  
+### Software Engineering Student | Frontend-Focused Web Developer  
 
 📍 Rexburg, Idaho  
+🇲🇽 Originally from Campeche, Mexico  
 
 ---
 
 ## 🚀 About Me
 
-Hi! I'm Daniel, a Web Development student passionate about building practical and useful web applications.
+Hi! I'm Daniel, a Software Engineering student focused on building modern web solutions, especially on the frontend.
 
-I enjoy writing clean, organized code and creating projects that solve real problems.  
-Most of my work focuses on JavaScript, APIs, and building dynamic applications with proper structure.
+I enjoy creating clean, responsive, and user-friendly interfaces.  
+My main interest is turning ideas into functional web applications using JavaScript and structured design principles.
 
-Currently growing in:
-- Full-Stack Development
-- Backend fundamentals
-- Database-driven applications
+I am especially interested in:
+- Frontend development
+- Interactive web applications
 - API integrations
-- Software architecture basics
+- Clean UI & structured code
+- Building practical digital solutions
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend (Main Focus)
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -32,21 +33,21 @@ Currently growing in:
 - Fetch API
 - LocalStorage
 - Responsive Design
+- Basic React
 
-### ⚙️ Backend
+### ⚙️ Backend (Foundational Knowledge)
 - Node.js
-- Express (Intro level)
+- Express
 - REST APIs
 - CRUD Operations
 - PostgreSQL (Basic)
 - JSON Data Handling
 
-### 🔧 Tools & Other
+### 🔧 Tools
 - Git & GitHub
 - Google Apps Script
-- External API Integration (Gemini API & others)
-- MVC Structure (Intro level)
-- Basic Python Programming
+- External API Integration
+- MVC Architecture (Intro level)
 
 ---
 
@@ -54,75 +55,69 @@ Currently growing in:
 
 ### 🍅 Pomodoro Timer  
 **HTML • CSS • JavaScript**  
-A productivity timer based on the Pomodoro technique.  
-Includes start, pause, reset functionality and dynamic UI updates.
+A productivity-focused timer with dynamic UI updates and state management.
 
 ---
 
 ### 🛒 Shopping List  
 **HTML • CSS • JavaScript**  
-A grocery list app using LocalStorage.  
-Users can add, remove, and reset items with persistent local data.
+LocalStorage-based grocery list that allows users to manage items efficiently.
 
 ---
 
 ### ✅ ToDo List  
 **HTML • CSS • JavaScript**  
-Task manager with full CRUD functionality (Create, Read, Update, Delete).  
-Designed for simple and efficient task tracking.
+Task manager with full CRUD functionality (Create, Read, Update, Delete).
 
 ---
 
 ### 🎯 Guess My Number  
 **HTML • CSS • JavaScript**  
-Interactive logic game with dynamic hints and clean UI feedback.
+Interactive logic game with real-time feedback and clean UI structure.
 
 ---
 
 ### 🤖 BYUI AI Chatbot  
 **Google Apps Script • JavaScript • API**  
-AI-powered chatbot integrated with external APIs for intelligent responses.
+AI-powered chatbot integrating external APIs to generate responses.
 
 ---
 
 ### ⚽ GoalNerd  
 **HTML • CSS • JavaScript • API**  
-Soccer statistics platform connected to real-time sports data APIs.
+Soccer statistics platform connected to live data APIs.
 
 ---
 
 ### 🏆 Hackathon – "Next Up"  
 **React • JavaScript • JSON**  
 🥇 First Place – BYUI 2025 Hackathon  
-Designed the UI for a social platform focused on planning and sharing experiences.
+Frontend UI design for a social planning platform.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Growing In
 
-- Backend architecture patterns  
-- Authentication & session handling  
-- Database optimization  
-- Clean code principles  
-- Scalable application structure  
+- Advanced JavaScript patterns  
+- Frontend architecture  
+- Component-based design  
+- Backend integration  
+- Scalable web application structure  
 
 ---
 
-## 🎯 Professional Goals
+## 🎯 Professional Goal
 
-- Become a strong Full-Stack Developer  
-- Build scalable and production-ready applications  
-- Work on real-world software systems  
-- Continuously improve problem-solving skills  
+To become a highly skilled frontend engineer capable of building scalable, clean, and impactful web solutions.
 
 ---
 
 ## 📫 Connect With Me
 
 📧 danielacosta@byui.edu  
-💼 LinkedIn: *https://github.com/DanielAcostaFranco*  
-🌐 Portfolio: *https://danielacostafranco.github.io/Portfolio/*  
+💼 LinkedIn: *(add your link)*  
+🌐 Portfolio: *(add your link)*  
 
 ---
 
-> “Consistency beats motivation.” 🚀
+> Focused on building simple, clean, and functional web experiences.
